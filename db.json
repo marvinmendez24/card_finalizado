@@ -1,0 +1,34 @@
+{
+    "autos": [
+        {
+            "modelo": "VMW",
+            "imagen": "https://cdn.pixabay.com/photo/2018/07/12/16/05/bmw-3533813_960_720.jpg",
+            "descripcion": "Los vehículos Volkswagen cuentan con motores con sistema de inyección de combustible. Esto le proporciona una mayor eficiencia energética y desempeño en la carretera. Además de ser amigables con el medio ambiente. Igualmente, cuentan con un sistema de corte de inyección de combustible."
+        },
+        {
+            "modelo": "Cadillac",
+            "imagen": "https://cdn.pixabay.com/photo/2015/05/28/23/12/auto-788747_960_720.jpg",
+            "descripcion": "Cadillac es una marca de automóviles de lujo, fabricados y vendidos por la empresa estadounidense General Motors creada por William Murphy en 1902. El nombre fue tomado del fundador de la ciudad de Detroit, Míchigan, en 1701, el oficial del ejército francés, Antoine de la Mothe Cadillac."
+        },
+        {
+            "modelo": "Coche deportivo",
+            "imagen": "https://cdn.pixabay.com/photo/2012/11/02/13/02/car-63930_960_720.jpg",
+            "descripcion": "Cuentan con motores con sistema de inyección de combustible. Automóviles de lujo, fabricados y vendidos por empresas europeas. El auto fue tomado del fundador de la ciudad de Denver, en 2021."
+        },
+        {
+            "modelo": "Casual",
+            "imagen": "https://cdn.pixabay.com/photo/2016/04/07/06/53/bmw-1313343_960_720.jpg",
+            "descripcion": "son perfectas para viajar tanto por carreteras bien asfaltadas como por caminos de tierra. Este tipo de moto para viajar es recomendable si lo que vas a realizar son viajes largos por carretera, ya que ofrecen una buena estabilidad y suelen tener un espacio confortable si lo que buscas es viajar en pareja"
+        },
+        {
+            "modelo": "Motocross",
+            "imagen": "https://cdn.pixabay.com/photo/2020/03/19/18/20/motocross-4948269_960_720.jpg",
+            "descripcion": "El motocross es una modalidad de motociclismo que consiste en competir por circuitos caracterizados por ser terrenos agrestes"
+        },
+        {
+            "modelo": "Harley Davidson",
+            "imagen": "https://cdn.pixabay.com/photo/2015/07/27/03/01/motorbike-861966_960_720.jpg",
+            "descripcion": "La nueva Harley-Davidson Sportster ser la más potente de la historia: 121 CV y 220 km/h de velocidad punta, según las últimas filtraciones"
+        }
+    ]
+}
